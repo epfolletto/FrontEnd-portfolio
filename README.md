@@ -43,23 +43,17 @@ Evandro Paulo Folletto
 ### Página Inicial/Home
 <img src="./img/readme/site_1.png"/>
 
-### Página SignUp (Cadastro)
-<img src="./future-eats-b/src/assets/img_readme/signup.png"/>
+### Página Histórico
+<img src="./img/readme/site_2.png"/>
 
-### Página Feed
-<img src="./future-eats-b/src/assets/img_readme/feed.png"/>
+### Página Galeria
+<img src="./img/readme/site_3.png"/>
 
-### Página detalhes
-<img src="./future-eats-b/src/assets/img_readme/restaurant.png"/>
+### Página Detalhes
+<img src="./img/readme/site_4.png"/>
 
-### Página Carrinho
-<img src="./future-eats-b/src/assets/img_readme/cart.png"/>
+### Página Habilidades
+<img src="./img/readme/site_5.png"/>
 
-### Página Perfil
-<img src="./future-eats-b/src/assets/img_readme/profile.png"/>
-
-### Página Editar perfil
-<img src="./future-eats-b/src/assets/img_readme/profile_edit.png"/>
-
-### Página Editar Endereço
-<img src="./future-eats-b/src/assets/img_readme/profile_address.png"/>
+### Página Contato
+<img src="./img/readme/site_6.png"/>
