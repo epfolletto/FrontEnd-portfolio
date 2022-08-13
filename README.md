@@ -6,18 +6,12 @@ Projeto Portfólio
 
 # `Descrição`
 [Projeto desenvolvido na semana 4 do curso Labenu] </br>
-O Projeto Portfólio foi desenvolvido dentro do curso Full-Stack Web Developer da Labenu, o qual consiste em criações de páginas simples, utilizando apenas HTML e CSS para tal. O site é comporto por cinco páginas: Início, Histórico, Galeria, Habilidades e Contato. O usuário pode acessar estas páginas através de um menu horizontal superior.
-A página Início contém uma imagem do desenvolvedor, assim imagens das instituições de ensino em que o mesmo estudou, sendo possível clicar nas mesmas e ser redirecionado para o site das mesmas.
-Na página Histórico existe uma descrição do histórico profissional do autor.
-Na página Galeria existem alguns projetos desenvolvidos pelo autor, dentro do próprio bootcamp da Labenu. É possível acessar os detalhes destes projetos clicando no botão "Detalhar".
-A página Habilidades contém uma deescrição das habilidades do autor.
+O Projeto Portfólio foi desenvolvido dentro do curso Full-Stack Web Developer da Labenu, o qual consiste em criações de páginas simples, utilizando apenas HTML e CSS para tal. O site é comporto por cinco páginas: Início, Histórico, Galeria, Habilidades e Contato. O usuário pode acessar estas páginas através de um menu horizontal superior. </br>
+A página Início contém uma imagem do desenvolvedor, assim imagens das instituições de ensino em que o mesmo estudou, sendo possível clicar nas mesmas e ser redirecionado para o site das mesmas. </br>
+Na página Histórico existe uma descrição do histórico profissional do autor. </br>
+Na página Galeria existem alguns projetos desenvolvidos pelo autor, dentro do próprio bootcamp da Labenu. É possível acessar os detalhes destes projetos clicando no botão "Detalhar". </br>
+A página Habilidades contém uma deescrição das habilidades do autor. </br>
 A página contato existe um formulário (sem a funcionalidade de enviar) e também as redes sociais
-
-uisições (via axios) para a API labeFoods, que contém informações relacionadas ao desenvolvimento de uma aplicação que simula um aplicativo semelhante ao conhecido app iFood. Este projeto foi baseado no layout layout FutureEats.
-</br>
-A documentação da API pode ser encontrada [aqui](https://documenter.getpostman.com/view/7549981/SWTEdGtT)
-</br>
-O repositório do projeto pode ser encontrado [aqui](https://github.com/future4code/Alves-labe-food5)
 
 # `Modo de usar`
 Ao iniciar a aplicação o usuário é direcionado para a tela de Login. Nesta tela, o usuário pode efetuar seu login ou então se inscrever na plataforma, criando um usuário com nome, email, senha e dados de endereço.
