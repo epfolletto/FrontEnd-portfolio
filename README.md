@@ -2,7 +2,7 @@
 Projeto Portfólio
 
 # `Link`
-[https://portfolio-folletto.surge.sh/](https://folletto-portfolio.surge.sh/index.html)
+[Clique aqui para acessar](https://folletto-portfolio.surge.sh/index.html)
 
 # `Descrição`
 [Projeto desenvolvido na semana 4 do curso Labenu]
