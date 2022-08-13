@@ -7,7 +7,7 @@ Projeto Portfólio
 # `Descrição`
 [Projeto desenvolvido na semana 4 do curso Labenu] </br>
 O Projeto Portfólio foi desenvolvido dentro do curso Full-Stack Web Developer da Labenu, o qual consiste em criações de páginas simples, utilizando apenas HTML e CSS para tal. O site é comporto por cinco páginas, que podem ser acessadas através de um menu horizontal superior: </br>
-**- Página Início:** contém uma imagem do desenvolvedor, assim imagens das instituições de ensino em que o mesmo estudou, sendo possível clicar nas mesmas e ser redirecionado para o site das mesmas. </br>
+**- Página Início:** contém uma imagem do desenvolvedor do projeto, assim como imagens das instituições de ensino em que o mesmo estudou, sendo possível clicar nas mesmas e ser redirecionado para o site das mesmas. </br>
 **- Página Histórico:** contém uma descrição do histórico profissional do autor. </br>
 **- Página Galeria:** contém alguns projetos desenvolvidos pelo autor, dentro do próprio bootcamp da Labenu. É possível acessar os detalhes destes projetos clicando no botão "Detalhar". </br>
 **- Página Habilidades:** contém uma descrição das habilidades do autor. </br>
