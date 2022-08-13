@@ -40,8 +40,8 @@ Evandro Paulo Folletto
 </br>
 
 # `Imagens`
-### Página Login
-<img src="./future-eats-b/src/assets/img_readme/login.png"/>
+### Página Inicial/Home
+<img src="./img/readme/site_1.png"/>
 
 ### Página SignUp (Cadastro)
 <img src="./future-eats-b/src/assets/img_readme/signup.png"/>
