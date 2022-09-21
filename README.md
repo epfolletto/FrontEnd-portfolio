@@ -5,7 +5,7 @@ Projeto Portfólio
 [Clique aqui para acessar](https://folletto-portfolio.surge.sh/index.html)
 
 # `Descrição`
-[Projeto desenvolvido na semana 4 do curso Labenu] </br>
+[Projeto desenvolvido na semana 4 do curso Labenu]. </br>
 O Projeto Portfólio foi desenvolvido dentro do curso Full-Stack Web Developer da Labenu, o qual consiste em criações de páginas simples, utilizando apenas HTML e CSS para tal. O site é comporto por cinco páginas, que podem ser acessadas através de um menu horizontal superior: </br>
 **- Página Início:** contém uma imagem do autor do projeto, assim como imagens das instituições de ensino em que o mesmo estudou, sendo possível clicar nas mesmas e ser redirecionado para o site destas. </br>
 **- Página Histórico:** contém uma descrição do histórico profissional do autor. </br>
