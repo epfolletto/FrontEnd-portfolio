@@ -1,5 +1,5 @@
 # `Projeto`
-Projeto Portfólio
+Portfólio
 
 # `Link`
 [Clique aqui para acessar](https://folletto-portfolio.surge.sh/index.html)
